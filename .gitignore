@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Sttore
+.idea/
+caltech/
+aws_ec2_key_pair/
+old_videos/
