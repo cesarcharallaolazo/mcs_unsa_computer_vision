@@ -11,6 +11,15 @@ Repository for Computer Vision course from MCS UNSA
     
 ## Prediction
 
-1. Run over images
-2. Run over videos
+We test Yolov3 with Python 3.8 scripts and these libraries:
+- certifi==2021.10.8
+- distro==1.6.0
+- numpy==1.22.0
+- opencv-python==3.4.8.29
+- packaging==21.3
+- pyparsing==3.0.6
+- scikit-build==0.12.0
+
+1. Test Yolov3 over images: python trabajo_final/detect_object.py
+2. Test Yolov3 over videos: python trabajo_final/detect_object_video.py
 
