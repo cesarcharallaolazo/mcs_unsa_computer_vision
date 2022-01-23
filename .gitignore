@@ -133,3 +133,5 @@ dmypy.json
 caltech/
 aws_ec2_key_pair/
 old_videos/
+*.weights
+*.mp4
